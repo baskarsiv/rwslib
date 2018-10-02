@@ -1,0 +1,2 @@
+from rwslib import RWSConnection
+rws = RWSConnection('innovate')
